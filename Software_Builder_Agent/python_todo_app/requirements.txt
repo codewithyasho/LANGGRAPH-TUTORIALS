@@ -1,0 +1,3 @@
+# Python Todo App Requirements
+# This app uses only built-in Python modules, so no external packages are required.
+# Python 3.6+ is recommended.
